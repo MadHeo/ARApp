@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class MainMenu : MonoBehaviour
 {
+
+    int a = 12;
     // Start is called before the first frame update
     void Start()
     {
@@ -14,5 +16,25 @@ public class MainMenu : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void OnClickHome()
+    {
+
+    }
+
+    public void OnClickCamera()
+    {
+
+    }
+
+    public void OnClickWear()
+    {
+
+    }
+
+    public void OnClickSetting()
+    {
+
     }
 }
